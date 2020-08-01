@@ -1,1 +1,10 @@
-{}
+{
+	"auth": {
+		"cheateat8c825cf2": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

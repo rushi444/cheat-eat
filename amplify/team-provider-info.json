@@ -10,6 +10,11 @@
             "StackName": "amplify-cheateat-dev-134355",
             "StackId": "arn:aws:cloudformation:us-west-2:148716834237:stack/amplify-cheateat-dev-134355/5ddddf80-d2a5-11ea-8273-029080759303",
             "AmplifyAppId": "dptoo6hzy28sb"
+        },
+        "categories": {
+            "auth": {
+                "cheateat8c825cf2": {}
+            }
         }
     }
 }
