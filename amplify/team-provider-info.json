@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-cheateat-dev-194826-authRole",
+            "UnauthRoleArn": "arn:aws:iam::148716834237:role/amplify-cheateat-dev-194826-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::148716834237:role/amplify-cheateat-dev-194826-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-cheateat-dev-194826-deployment",
+            "UnauthRoleName": "amplify-cheateat-dev-194826-unauthRole",
+            "StackName": "amplify-cheateat-dev-194826",
+            "StackId": "arn:aws:cloudformation:us-west-2:148716834237:stack/amplify-cheateat-dev-194826/23578b70-d6c6-11ea-986e-06701ab4dd6c",
+            "AmplifyAppId": "d1918m59i4tvho"
+        }
+    }
+}
